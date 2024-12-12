@@ -8,3 +8,6 @@ Note: inferenced only gguf models
 TPU is optimized for high core cpu inference 
 T4 is optimized for GPU off loading 
 
+
+
+T4 is currently has faster inference speeds
