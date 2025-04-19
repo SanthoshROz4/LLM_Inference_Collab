@@ -5,9 +5,8 @@ T4 LINK : https://colab.research.google.com/github/SanthoshROz4/LLM_Inference_Co
 
 
 Note: inferenced only gguf models 
-TPU is optimized for high core cpu inference 
 T4 is optimized for GPU off loading 
 
-
+TPU notebook wont run efficiently the colab backend just depreacted their versions use T4 so dont spend time on running TPU if possible alter the code of TPU inference
 
 T4 is currently has faster inference speeds
